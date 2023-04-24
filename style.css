@@ -1,0 +1,53 @@
+body{
+
+    --principal: 'Lobster', cursive;
+    --secundaria: 'Saira Condensed', sans-serif;
+    background: #B89582;
+    color: #352317;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    margin: 5rem 11rem;
+}
+
+.banner{
+    object-fit: contain;
+    border-radius: 2rem 0 0 2rem;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    padding: 2rem;
+    justify-content: space-evenly;
+    border-radius: 0 2rem 2rem 0;
+}
+
+.produto, .descricao{
+    font-family: var(--secundaria);
+    font-size: 1.5rem;
+}
+
+.nome, .preco{
+    font-family: var(--principal);
+    font-size: 3rem;
+}
+
+.preco{
+    color: #A3703F;
+    text-shadow: 2px 2px 1px #dfbfb0;
+}
+
+.comprar{
+    font-family: var(--secundaria);
+    font-size: 2.5rem;
+    text-decoration: none;
+    text-align: center;
+    padding: 1rem;
+    color: #ffffff;
+    background-color: #745236;
+    border-radius: 1rem;
+}

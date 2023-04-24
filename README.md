@@ -1,17 +1,21 @@
-# Nome do meu projeto
+# Card de produto
 
-Rápida descrição do objetivo de fazer esse projeto
+Card para anuncio de um produto feito para o desafio do Frontend Mentor.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Card Produto**
+| :label: Tecnologias | html e css
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+Layout desktop
+
+![image](https://user-images.githubusercontent.com/112051389/233900654-fb938f40-aedc-4874-b4f7-a9c7e85f508d.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Layout criado para praticar posicionamento com display flex.
+Utilizei bastante medidas em rem e a criação de variaveis css para a fonta.
+Posteriormente farei o layout mobile

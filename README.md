@@ -6,7 +6,7 @@ Card para anuncio de um produto feito para o desafio do Frontend Mentor.
 | -------------  | --- |
 | :sparkles: Nome        | **Card Produto**
 | :label: Tecnologias | html e css
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://matheusporezeli.github.io/Product-card/
 | :fire: Desafio     | https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
 
 Layout desktop
